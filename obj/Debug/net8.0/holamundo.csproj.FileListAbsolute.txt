@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\code\c\00coder\holamundo\bin\Debug\net8.0\holamundo.exe
+C:\Users\usuario\Desktop\code\c\00coder\holamundo\bin\Debug\net8.0\holamundo.deps.json
+C:\Users\usuario\Desktop\code\c\00coder\holamundo\bin\Debug\net8.0\holamundo.runtimeconfig.json
+C:\Users\usuario\Desktop\code\c\00coder\holamundo\bin\Debug\net8.0\holamundo.dll
+C:\Users\usuario\Desktop\code\c\00coder\holamundo\bin\Debug\net8.0\holamundo.pdb
+C:\Users\usuario\Desktop\code\c\00coder\holamundo\obj\Debug\net8.0\holamundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\code\c\00coder\holamundo\obj\Debug\net8.0\holamundo.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\code\c\00coder\holamundo\obj\Debug\net8.0\holamundo.AssemblyInfo.cs
+C:\Users\usuario\Desktop\code\c\00coder\holamundo\obj\Debug\net8.0\holamundo.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\code\c\00coder\holamundo\obj\Debug\net8.0\holamundo.dll
+C:\Users\usuario\Desktop\code\c\00coder\holamundo\obj\Debug\net8.0\refint\holamundo.dll
+C:\Users\usuario\Desktop\code\c\00coder\holamundo\obj\Debug\net8.0\holamundo.pdb
+C:\Users\usuario\Desktop\code\c\00coder\holamundo\obj\Debug\net8.0\holamundo.genruntimeconfig.cache
+C:\Users\usuario\Desktop\code\c\00coder\holamundo\obj\Debug\net8.0\ref\holamundo.dll
