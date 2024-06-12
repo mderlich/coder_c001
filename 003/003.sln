@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003", "003.csproj", "{B951C959-9FC4-485F-84BD-3726DA8B3192}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003", "003.csproj", "{B951C959-9FC4-485F-84BD-3726DA8B3192}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003-cicloFor", "..\003-cicloFor\003-cicloFor.csproj", "{1EBAA2F1-928C-45FA-86CB-DF0AFCA7BAB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B951C959-9FC4-485F-84BD-3726DA8B3192}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B951C959-9FC4-485F-84BD-3726DA8B3192}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B951C959-9FC4-485F-84BD-3726DA8B3192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EBAA2F1-928C-45FA-86CB-DF0AFCA7BAB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EBAA2F1-928C-45FA-86CB-DF0AFCA7BAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EBAA2F1-928C-45FA-86CB-DF0AFCA7BAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EBAA2F1-928C-45FA-86CB-DF0AFCA7BAB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

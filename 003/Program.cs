@@ -89,5 +89,3 @@ while (numero < 100) {
     Console.WriteLine(numero);
     numero++;
 }
-
-
