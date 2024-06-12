@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-validarPass\bin\Debug\net8.0\004-validarPass.exe
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-validarPass\bin\Debug\net8.0\004-validarPass.deps.json
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-validarPass\bin\Debug\net8.0\004-validarPass.runtimeconfig.json
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-validarPass\bin\Debug\net8.0\004-validarPass.dll
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-validarPass\bin\Debug\net8.0\004-validarPass.pdb
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-validarPass\obj\Debug\net8.0\004-validarPass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-validarPass\obj\Debug\net8.0\004-validarPass.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-validarPass\obj\Debug\net8.0\004-validarPass.AssemblyInfo.cs
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-validarPass\obj\Debug\net8.0\004-validarPass.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-validarPass\obj\Debug\net8.0\004-validarPass.sourcelink.json
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-validarPass\obj\Debug\net8.0\004-validarPass.dll
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-validarPass\obj\Debug\net8.0\refint\004-validarPass.dll
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-validarPass\obj\Debug\net8.0\004-validarPass.pdb
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-validarPass\obj\Debug\net8.0\004-validarPass.genruntimeconfig.cache
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-validarPass\obj\Debug\net8.0\ref\004-validarPass.dll
