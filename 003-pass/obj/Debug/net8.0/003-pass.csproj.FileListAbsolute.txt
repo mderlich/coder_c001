@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\code\c\coderhouse_c\003-pass\bin\Debug\net8.0\003-pass.exe
+C:\Users\usuario\Desktop\code\c\coderhouse_c\003-pass\bin\Debug\net8.0\003-pass.deps.json
+C:\Users\usuario\Desktop\code\c\coderhouse_c\003-pass\bin\Debug\net8.0\003-pass.runtimeconfig.json
+C:\Users\usuario\Desktop\code\c\coderhouse_c\003-pass\bin\Debug\net8.0\003-pass.dll
+C:\Users\usuario\Desktop\code\c\coderhouse_c\003-pass\bin\Debug\net8.0\003-pass.pdb
+C:\Users\usuario\Desktop\code\c\coderhouse_c\003-pass\obj\Debug\net8.0\003-pass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\code\c\coderhouse_c\003-pass\obj\Debug\net8.0\003-pass.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\code\c\coderhouse_c\003-pass\obj\Debug\net8.0\003-pass.AssemblyInfo.cs
+C:\Users\usuario\Desktop\code\c\coderhouse_c\003-pass\obj\Debug\net8.0\003-pass.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\code\c\coderhouse_c\003-pass\obj\Debug\net8.0\003-pass.sourcelink.json
+C:\Users\usuario\Desktop\code\c\coderhouse_c\003-pass\obj\Debug\net8.0\003-pass.dll
+C:\Users\usuario\Desktop\code\c\coderhouse_c\003-pass\obj\Debug\net8.0\refint\003-pass.dll
+C:\Users\usuario\Desktop\code\c\coderhouse_c\003-pass\obj\Debug\net8.0\003-pass.pdb
+C:\Users\usuario\Desktop\code\c\coderhouse_c\003-pass\obj\Debug\net8.0\003-pass.genruntimeconfig.cache
+C:\Users\usuario\Desktop\code\c\coderhouse_c\003-pass\obj\Debug\net8.0\ref\003-pass.dll

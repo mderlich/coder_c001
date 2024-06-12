@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003", "003.csproj", "{B951C959-9FC4-485F-84BD-3726DA8B3192}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003-cicloFor", "..\003-cicloFor\003-cicloFor.csproj", "{1EBAA2F1-928C-45FA-86CB-DF0AFCA7BAB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003-cicloFor", "..\003-cicloFor\003-cicloFor.csproj", "{1EBAA2F1-928C-45FA-86CB-DF0AFCA7BAB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003-pass", "..\003-pass\003-pass.csproj", "{DD16EFA8-6DBF-44A9-A7B3-C20A31F4F3A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{1EBAA2F1-928C-45FA-86CB-DF0AFCA7BAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1EBAA2F1-928C-45FA-86CB-DF0AFCA7BAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1EBAA2F1-928C-45FA-86CB-DF0AFCA7BAB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD16EFA8-6DBF-44A9-A7B3-C20A31F4F3A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD16EFA8-6DBF-44A9-A7B3-C20A31F4F3A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD16EFA8-6DBF-44A9-A7B3-C20A31F4F3A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD16EFA8-6DBF-44A9-A7B3-C20A31F4F3A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
