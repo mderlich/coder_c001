@@ -1,0 +1,15 @@
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-appVentas\bin\Debug\net8.0\004-appVentas.exe
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-appVentas\bin\Debug\net8.0\004-appVentas.deps.json
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-appVentas\bin\Debug\net8.0\004-appVentas.runtimeconfig.json
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-appVentas\bin\Debug\net8.0\004-appVentas.dll
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-appVentas\bin\Debug\net8.0\004-appVentas.pdb
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-appVentas\obj\Debug\net8.0\004-appVentas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-appVentas\obj\Debug\net8.0\004-appVentas.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-appVentas\obj\Debug\net8.0\004-appVentas.AssemblyInfo.cs
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-appVentas\obj\Debug\net8.0\004-appVentas.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-appVentas\obj\Debug\net8.0\004-appVentas.sourcelink.json
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-appVentas\obj\Debug\net8.0\004-appVentas.dll
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-appVentas\obj\Debug\net8.0\refint\004-appVentas.dll
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-appVentas\obj\Debug\net8.0\004-appVentas.pdb
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-appVentas\obj\Debug\net8.0\004-appVentas.genruntimeconfig.cache
+C:\Users\usuario\Desktop\code\c\coderhouse_c\004-appVentas\obj\Debug\net8.0\ref\004-appVentas.dll
