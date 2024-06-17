@@ -13,6 +13,10 @@
             else { 
                 Console.WriteLine("El producto no fue publicado aun");
             }
+
+            producto.categoria = "Limpieza";
+            Console.WriteLine( producto.hayPrecioDeVenta());
+
         }
     }
 }

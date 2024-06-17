@@ -22,6 +22,25 @@ namespace _005
             this._precioDeVenta = precioDeVenta;
             this._categoria = categoria;
         }
+
+        public string categoria
+        {
+            get
+            {
+                if (!string.IsNullOrEmpty(this._categoria))
+                {
+                    return this._categoria;
+                }
+                else {
+                    return "SIN CATEGORIA";
+                }
+            }
+            set
+            {
+                this._categoria = value;
+            }
+
+        }
         public bool hayPrecioDeVenta()
         {
             return this._precioDeVenta > 0;
