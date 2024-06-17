@@ -1,0 +1,17 @@
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-wform\bin\Debug\net6.0-windows\007-wform.exe
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-wform\bin\Debug\net6.0-windows\007-wform.deps.json
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-wform\bin\Debug\net6.0-windows\007-wform.runtimeconfig.json
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-wform\bin\Debug\net6.0-windows\007-wform.dll
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-wform\bin\Debug\net6.0-windows\007-wform.pdb
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-wform\obj\Debug\net6.0-windows\_007_wform.Form1.resources
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-wform\obj\Debug\net6.0-windows\007-wform.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-wform\obj\Debug\net6.0-windows\007-wform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-wform\obj\Debug\net6.0-windows\007-wform.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-wform\obj\Debug\net6.0-windows\007-wform.AssemblyInfo.cs
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-wform\obj\Debug\net6.0-windows\007-wform.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-wform\obj\Debug\net6.0-windows\007-wform.sourcelink.json
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-wform\obj\Debug\net6.0-windows\007-wform.dll
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-wform\obj\Debug\net6.0-windows\refint\007-wform.dll
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-wform\obj\Debug\net6.0-windows\007-wform.pdb
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-wform\obj\Debug\net6.0-windows\007-wform.genruntimeconfig.cache
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-wform\obj\Debug\net6.0-windows\ref\007-wform.dll

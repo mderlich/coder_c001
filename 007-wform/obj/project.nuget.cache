@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tc49lTPTWpx7LJwOFoCycvuEXY3KFj02U2BVshA8pQ57GE5FmfyynXDhZnzwUDE8VMLiV8oAOgSW9LOouhc62A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usuario\\Desktop\\code\\c\\coderhouse_c\\007-wform\\007-wform.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
