@@ -1,0 +1,17 @@
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-catalogo\bin\Debug\net6.0-windows\007-catalogo.exe
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-catalogo\bin\Debug\net6.0-windows\007-catalogo.deps.json
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-catalogo\bin\Debug\net6.0-windows\007-catalogo.runtimeconfig.json
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-catalogo\bin\Debug\net6.0-windows\007-catalogo.dll
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-catalogo\bin\Debug\net6.0-windows\007-catalogo.pdb
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-catalogo\obj\Debug\net6.0-windows\_007_catalogo.Form1.resources
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-catalogo\obj\Debug\net6.0-windows\007-catalogo.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-catalogo\obj\Debug\net6.0-windows\007-catalogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-catalogo\obj\Debug\net6.0-windows\007-catalogo.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-catalogo\obj\Debug\net6.0-windows\007-catalogo.AssemblyInfo.cs
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-catalogo\obj\Debug\net6.0-windows\007-catalogo.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-catalogo\obj\Debug\net6.0-windows\007-catalogo.sourcelink.json
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-catalogo\obj\Debug\net6.0-windows\007-catalogo.dll
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-catalogo\obj\Debug\net6.0-windows\refint\007-catalogo.dll
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-catalogo\obj\Debug\net6.0-windows\007-catalogo.pdb
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-catalogo\obj\Debug\net6.0-windows\007-catalogo.genruntimeconfig.cache
+C:\Users\usuario\Desktop\code\c\coderhouse_c\007-catalogo\obj\Debug\net6.0-windows\ref\007-catalogo.dll

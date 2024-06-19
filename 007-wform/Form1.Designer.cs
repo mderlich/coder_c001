@@ -32,10 +32,10 @@
             label2 = new Label();
             lstRazasDePerros = new ListBox();
             lstCiudadesPais = new ListBox();
-            button1 = new Button();
-            button2 = new Button();
-            button3 = new Button();
-            button4 = new Button();
+            btnBuscar = new Button();
+            btnEliminar = new Button();
+            btnModificar = new Button();
+            btnLimpiar = new Button();
             SuspendLayout();
             // 
             // label1
@@ -76,41 +76,43 @@
             lstCiudadesPais.Size = new Size(318, 109);
             lstCiudadesPais.TabIndex = 3;
             // 
-            // button1
+            // btnBuscar
             // 
-            button1.Location = new Point(239, 164);
-            button1.Name = "button1";
-            button1.Size = new Size(75, 23);
-            button1.TabIndex = 4;
-            button1.Text = "Buscar";
-            button1.UseVisualStyleBackColor = true;
+            btnBuscar.Location = new Point(239, 164);
+            btnBuscar.Name = "btnBuscar";
+            btnBuscar.Size = new Size(75, 23);
+            btnBuscar.TabIndex = 4;
+            btnBuscar.Text = "Buscar";
+            btnBuscar.UseVisualStyleBackColor = true;
             // 
-            // button2
+            // btnEliminar
             // 
-            button2.Location = new Point(320, 164);
-            button2.Name = "button2";
-            button2.Size = new Size(75, 23);
-            button2.TabIndex = 4;
-            button2.Text = "Eliminar";
-            button2.UseVisualStyleBackColor = true;
+            btnEliminar.Location = new Point(320, 164);
+            btnEliminar.Name = "btnEliminar";
+            btnEliminar.Size = new Size(75, 23);
+            btnEliminar.TabIndex = 4;
+            btnEliminar.Text = "Eliminar";
+            btnEliminar.UseVisualStyleBackColor = true;
             // 
-            // button3
+            // btnModificar
             // 
-            button3.Location = new Point(401, 164);
-            button3.Name = "button3";
-            button3.Size = new Size(75, 23);
-            button3.TabIndex = 4;
-            button3.Text = "Modificar";
-            button3.UseVisualStyleBackColor = true;
+            btnModificar.Location = new Point(401, 164);
+            btnModificar.Name = "btnModificar";
+            btnModificar.Size = new Size(75, 23);
+            btnModificar.TabIndex = 4;
+            btnModificar.Text = "Modificar";
+            btnModificar.UseVisualStyleBackColor = true;
+            btnModificar.Click += btnModificar_Click;
             // 
-            // button4
+            // btnLimpiar
             // 
-            button4.Location = new Point(482, 164);
-            button4.Name = "button4";
-            button4.Size = new Size(75, 23);
-            button4.TabIndex = 4;
-            button4.Text = "Limpiar";
-            button4.UseVisualStyleBackColor = true;
+            btnLimpiar.Location = new Point(482, 164);
+            btnLimpiar.Name = "btnLimpiar";
+            btnLimpiar.Size = new Size(75, 23);
+            btnLimpiar.TabIndex = 4;
+            btnLimpiar.Text = "Limpiar";
+            btnLimpiar.UseVisualStyleBackColor = true;
+            btnLimpiar.Click += btnLimpiar_Click;
             // 
             // Form1
             // 
@@ -118,10 +120,10 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaptionText;
             ClientSize = new Size(791, 365);
-            Controls.Add(button4);
-            Controls.Add(button3);
-            Controls.Add(button2);
-            Controls.Add(button1);
+            Controls.Add(btnLimpiar);
+            Controls.Add(btnModificar);
+            Controls.Add(btnEliminar);
+            Controls.Add(btnBuscar);
             Controls.Add(lstCiudadesPais);
             Controls.Add(lstRazasDePerros);
             Controls.Add(label2);
@@ -139,9 +141,9 @@
         private Label label2;
         private ListBox lstRazasDePerros;
         private ListBox lstCiudadesPais;
-        private Button button1;
-        private Button button2;
-        private Button button3;
-        private Button button4;
+        private Button btnBuscar;
+        private Button btnEliminar;
+        private Button btnModificar;
+        private Button btnLimpiar;
     }
 }

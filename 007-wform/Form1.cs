@@ -31,7 +31,7 @@ namespace _007_wform
             }
 
 
-            // Ciudades por Paises
+            // Ciudades por Pais
             ciudadesxPaises.Add("Buenos Aires", "Argentina");
             ciudadesxPaises.Add("Madrid", "España");
             ciudadesxPaises.Add("Paris", "Francia");
@@ -40,9 +40,34 @@ namespace _007_wform
             ciudadesxPaises.Add("Lima", "Bolivia");
             ciudadesxPaises.Add("Bogota", "Colombia");
 
+            foreach (KeyValuePair<string, string> ciudad in ciudadesxPaises)
+            {
+                lstCiudadesPais.Items.Add(ciudad.Key + " - " + ciudad.Value);
+
+            }
 
 
+        }
 
+        private void btnLimpiar_Click(object sender, EventArgs e)
+        {
+            lstCiudadesPais.Items.Clear();
+            ciudadesxPaises.Clear();
+            MessageBox.Show("Se limpio contenido del diccionario");
+
+        }
+
+        private void btnModificar_Click(object sender, EventArgs e)
+        {
+            ciudadesxPaises["Londres"] = "Madrid";
+
+            lstCiudadesPais.Items.Clear();
+
+            foreach (KeyValuePair<string, string> ciudad in ciudadesxPaises)
+            {
+                lstCiudadesPais.Items.Add(ciudad.Key + " - " + ciudad.Value);
+
+            }
         }
     }
 }
